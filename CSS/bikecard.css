@@ -1,0 +1,8 @@
+.card-body{
+    border: 1px solid gray;
+  }
+
+.card-img-top{
+    border: 1px solid gray;
+    border-bottom: none; 
+}
